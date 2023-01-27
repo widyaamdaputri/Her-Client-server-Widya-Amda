@@ -1,0 +1,10 @@
+com\widya\pengembalian\service\Vo\Peminjaman.class
+com\widya\pengembalian\service\Vo\ResponseTemplateVo.class
+com\widya\pengembalian\service\Repository\PengembalianRepository.class
+com\widya\pengembalian\service\Vo\Buku.class
+com\widya\pengembalian\service\Vo\Anggota.class
+com\widya\pengembalian\service\Vo\ResponseTemplateVOPinjam.class
+com\widya\pengembalian\service\Entity\Pengembalian.class
+com\widya\pengembalian\service\Controller\PengembalianController.class
+com\widya\pengembalian\service\Service\PengembalianService.class
+com\widya\pengembalian\service\PengembalianServiceApplication.class
