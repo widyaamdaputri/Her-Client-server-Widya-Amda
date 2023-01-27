@@ -1,0 +1,5 @@
+com\widya\Anggotaservice\Repository\AnggotaRepository.class
+com\widya\Anggotaservice\Service\AnggotaService.class
+com\widya\Anggotaservice\Controller\AnggotaController.class
+com\widya\Anggotaservice\AnggotaServiceApplication.class
+com\widya\Anggotaservice\Entity\Anggota.class
