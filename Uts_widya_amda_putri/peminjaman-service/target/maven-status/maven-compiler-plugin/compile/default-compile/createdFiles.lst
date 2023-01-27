@@ -1,0 +1,7 @@
+com\widya\peminjaman\service\PeminjamanServiceApplication.class
+com\widya\peminjaman\service\Controller\PeminjamanController.class
+com\widya\peminjaman\service\Repository\PeminjamanRepository.class
+com\widya\peminjaman\service\vo\ResponseTemplateVO.class
+com\widya\peminjaman\service\vo\Nasabah.class
+com\widya\peminjaman\service\Service\PeminjamanService.class
+com\widya\peminjaman\service\Entity\Peminjaman.class
